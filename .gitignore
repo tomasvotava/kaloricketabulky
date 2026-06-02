@@ -1,0 +1,34 @@
+# Raw intercepted API responses (contain personal data until anonymized).
+/sample-responses/
+
+# Superpowers working directory (specs/plans, not part of the repo).
+/superpowers/
+
+# Local environment
+.env
+.python-version
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Test / coverage artifacts
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+coverage.lcov
+htmlcov/
