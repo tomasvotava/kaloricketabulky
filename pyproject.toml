@@ -1,6 +1,6 @@
 [project]
 name = "kaloricketabulky-sdk"
-version = "0.1.0"
+version = "0.0.1"
 description = "Typesafe async read-only SDK for the kaloricketabulky.cz internal API."
 readme = "README.md"
 license = "MIT"
