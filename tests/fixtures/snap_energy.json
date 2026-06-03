@@ -1,0 +1,351 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": {
+    "guid": null,
+    "type": "energy",
+    "from": null,
+    "to": null,
+    "unit": "kcal",
+    "graph": null,
+    "nutrientsTarget": [],
+    "nutrientsValues": [],
+    "nutrientsTableData": [],
+    "target": [
+      {
+        "guid": null,
+        "from": 1605990643940,
+        "to": null,
+        "value": 41.622,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1605921092816,
+        "to": null,
+        "value": 46.683,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1599028439672,
+        "to": null,
+        "value": 67.44,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1585595522963,
+        "to": null,
+        "value": 16.631,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1602036824994,
+        "to": null,
+        "value": 87.057,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1591943234982,
+        "to": null,
+        "value": 82.094,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1591436936636,
+        "to": null,
+        "value": 21.304,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "values": [
+      {
+        "guid": null,
+        "from": 1584814719934,
+        "to": null,
+        "value": 1.578,
+        "valueString": null,
+        "description": null,
+        "status": 99,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1605869851697,
+        "to": null,
+        "value": 75.899,
+        "valueString": null,
+        "description": null,
+        "status": 22,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1585940743314,
+        "to": null,
+        "value": 76.927,
+        "valueString": null,
+        "description": null,
+        "status": 59,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1606328721999,
+        "to": null,
+        "value": 45.28,
+        "valueString": null,
+        "description": null,
+        "status": 38,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1580167963151,
+        "to": null,
+        "value": 27.986,
+        "valueString": null,
+        "description": null,
+        "status": 75,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1593694844329,
+        "to": null,
+        "value": 63.435,
+        "valueString": null,
+        "description": null,
+        "status": 77,
+        "systemTime": null,
+        "source": null
+      },
+      {
+        "guid": null,
+        "from": 1587691310713,
+        "to": null,
+        "value": 80.081,
+        "valueString": null,
+        "description": null,
+        "status": 16,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "tableData": [
+      {
+        "value": {
+          "guid": null,
+          "from": 1592105702419,
+          "to": null,
+          "value": 63.174,
+          "valueString": null,
+          "description": null,
+          "status": 30,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1598856126733,
+          "to": null,
+          "value": 9.692,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1589359632411,
+          "to": null,
+          "value": 72.925,
+          "valueString": null,
+          "description": null,
+          "status": 67,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1592755911236,
+          "to": null,
+          "value": 43.289,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1583533436153,
+          "to": null,
+          "value": 64.297,
+          "valueString": null,
+          "description": null,
+          "status": 66,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1584984236464,
+          "to": null,
+          "value": 69.256,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1604779199951,
+          "to": null,
+          "value": 67.317,
+          "valueString": null,
+          "description": null,
+          "status": 97,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1595328346412,
+          "to": null,
+          "value": 5.482,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1600751470471,
+          "to": null,
+          "value": 78.739,
+          "valueString": null,
+          "description": null,
+          "status": 15,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1582911216954,
+          "to": null,
+          "value": 77.422,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1595314190111,
+          "to": null,
+          "value": 41.225,
+          "valueString": null,
+          "description": null,
+          "status": 89,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1605148478691,
+          "to": null,
+          "value": 90.064,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "value": {
+          "guid": null,
+          "from": 1596208533956,
+          "to": null,
+          "value": 61.438,
+          "valueString": null,
+          "description": null,
+          "status": 0,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": null,
+          "from": 1592179146845,
+          "to": null,
+          "value": 79.006,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      }
+    ],
+    "page": 81,
+    "limit": 96,
+    "targetPaged": null,
+    "valuesPaged": null,
+    "tableDataPaged": null,
+    "min": null,
+    "max": null
+  }
+}

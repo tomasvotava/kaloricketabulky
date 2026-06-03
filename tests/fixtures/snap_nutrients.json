@@ -1,0 +1,1009 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": {
+    "guid": null,
+    "type": "nutrients",
+    "from": null,
+    "to": null,
+    "unit": "kcal",
+    "graph": null,
+    "nutrientsTarget": [
+      {
+        "createdDate": 1582742614563,
+        "fat": {
+          "guid": null,
+          "from": 1577982016847,
+          "to": null,
+          "value": 29.447,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1578296752601,
+          "to": null,
+          "value": 70.867,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1584106993586,
+          "to": null,
+          "value": 81.902,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1606450022684,
+        "fat": {
+          "guid": null,
+          "from": 1585367755905,
+          "to": null,
+          "value": 41.178,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1595032149890,
+          "to": null,
+          "value": 18.429,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1599497564385,
+          "to": null,
+          "value": 29.498,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1591629960859,
+        "fat": {
+          "guid": null,
+          "from": 1581961792477,
+          "to": null,
+          "value": 80.649,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1580470545029,
+          "to": null,
+          "value": 53.802,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1592352700731,
+          "to": null,
+          "value": 90.266,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1593412076477,
+        "fat": {
+          "guid": null,
+          "from": 1600105058168,
+          "to": null,
+          "value": 85.849,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1586461137512,
+          "to": null,
+          "value": 10.313,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1588924601897,
+          "to": null,
+          "value": 76.597,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1600968555876,
+        "fat": {
+          "guid": null,
+          "from": 1597495949458,
+          "to": null,
+          "value": 9.279,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1588422361922,
+          "to": null,
+          "value": 0.857,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1588955448563,
+          "to": null,
+          "value": 16.927,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1599131650641,
+        "fat": {
+          "guid": null,
+          "from": 1607027287833,
+          "to": null,
+          "value": 50.879,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1588544566337,
+          "to": null,
+          "value": 0.175,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1603296818027,
+          "to": null,
+          "value": 59.566,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1601826497801,
+        "fat": {
+          "guid": null,
+          "from": 1583338863442,
+          "to": null,
+          "value": 82.891,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": 1608341681480,
+          "to": null,
+          "value": 93.91,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": 1578153666437,
+          "to": null,
+          "value": 49.229,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      }
+    ],
+    "nutrientsValues": [
+      {
+        "createdDate": 1598668200984,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 23.106,
+          "valueString": null,
+          "description": null,
+          "status": 99,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 25.251,
+          "valueString": null,
+          "description": null,
+          "status": 0,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 38.243,
+          "valueString": null,
+          "description": null,
+          "status": 74,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1609110346098,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 58.618,
+          "valueString": null,
+          "description": null,
+          "status": 0,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 89.272,
+          "valueString": null,
+          "description": null,
+          "status": 29,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 32.837,
+          "valueString": null,
+          "description": null,
+          "status": 11,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1581085016584,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 13.875,
+          "valueString": null,
+          "description": null,
+          "status": 83,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 86.213,
+          "valueString": null,
+          "description": null,
+          "status": 85,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 39.114,
+          "valueString": null,
+          "description": null,
+          "status": 65,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1596552612741,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 71.97,
+          "valueString": null,
+          "description": null,
+          "status": 78,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 50.535,
+          "valueString": null,
+          "description": null,
+          "status": 63,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 52.091,
+          "valueString": null,
+          "description": null,
+          "status": 26,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1606858902748,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 50.044,
+          "valueString": null,
+          "description": null,
+          "status": 98,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 83.781,
+          "valueString": null,
+          "description": null,
+          "status": 56,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 21.117,
+          "valueString": null,
+          "description": null,
+          "status": 49,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1594031197403,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 75.195,
+          "valueString": null,
+          "description": null,
+          "status": 63,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 52.789,
+          "valueString": null,
+          "description": null,
+          "status": 91,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 88.644,
+          "valueString": null,
+          "description": null,
+          "status": 36,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "createdDate": 1590400236349,
+        "fat": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 98.372,
+          "valueString": null,
+          "description": null,
+          "status": 77,
+          "systemTime": null,
+          "source": null
+        },
+        "protein": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 72.625,
+          "valueString": null,
+          "description": null,
+          "status": 91,
+          "systemTime": null,
+          "source": null
+        },
+        "carbs": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 29.461,
+          "valueString": null,
+          "description": null,
+          "status": 39,
+          "systemTime": null,
+          "source": null
+        }
+      }
+    ],
+    "nutrientsTableData": [
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1583180341738,
+          "to": null,
+          "value": 94.758,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1608229212000,
+          "to": null,
+          "value": 88.487,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1592334814305,
+          "to": null,
+          "value": 51.149,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 27.164,
+          "valueString": null,
+          "description": null,
+          "status": 74,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 41.205,
+          "valueString": null,
+          "description": null,
+          "status": 9,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 17.511,
+          "valueString": null,
+          "description": null,
+          "status": 21,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1595374859097,
+          "to": null,
+          "value": 58.218,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1600635603765,
+          "to": null,
+          "value": 4.61,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1600678786806,
+          "to": null,
+          "value": 2.065,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 17.943,
+          "valueString": null,
+          "description": null,
+          "status": 97,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 69.326,
+          "valueString": null,
+          "description": null,
+          "status": 36,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 48.093,
+          "valueString": null,
+          "description": null,
+          "status": 62,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1593413168873,
+          "to": null,
+          "value": 73.408,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1583323043515,
+          "to": null,
+          "value": 29.931,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1585951220327,
+          "to": null,
+          "value": 46.923,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 55.996,
+          "valueString": null,
+          "description": null,
+          "status": 18,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 8.587,
+          "valueString": null,
+          "description": null,
+          "status": 26,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 90.408,
+          "valueString": null,
+          "description": null,
+          "status": 73,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1594468709581,
+          "to": null,
+          "value": 48.303,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1586053270676,
+          "to": null,
+          "value": 1.115,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1605870917143,
+          "to": null,
+          "value": 76.254,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 29.39,
+          "valueString": null,
+          "description": null,
+          "status": 9,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 6.787,
+          "valueString": null,
+          "description": null,
+          "status": 43,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 33.519,
+          "valueString": null,
+          "description": null,
+          "status": 87,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1589410295220,
+          "to": null,
+          "value": 72.25,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1585500164807,
+          "to": null,
+          "value": 87.575,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1608369844672,
+          "to": null,
+          "value": 98.992,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 66.864,
+          "valueString": null,
+          "description": null,
+          "status": 55,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 37.727,
+          "valueString": null,
+          "description": null,
+          "status": 74,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 4.689,
+          "valueString": null,
+          "description": null,
+          "status": 40,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1582962758255,
+          "to": null,
+          "value": 58.114,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1597967837309,
+          "to": null,
+          "value": 23.36,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1596107542028,
+          "to": null,
+          "value": 79.464,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 13.791,
+          "valueString": null,
+          "description": null,
+          "status": 15,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 85.741,
+          "valueString": null,
+          "description": null,
+          "status": 81,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 79.396,
+          "valueString": null,
+          "description": null,
+          "status": 76,
+          "systemTime": null,
+          "source": null
+        }
+      },
+      {
+        "fatTarget": {
+          "guid": null,
+          "from": 1593460529913,
+          "to": null,
+          "value": 23.326,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinTarget": {
+          "guid": null,
+          "from": 1605226568879,
+          "to": null,
+          "value": 58.815,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsTarget": {
+          "guid": null,
+          "from": 1595098272023,
+          "to": null,
+          "value": 98.191,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "fatValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 75.22,
+          "valueString": null,
+          "description": null,
+          "status": 14,
+          "systemTime": null,
+          "source": null
+        },
+        "proteinValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 42.266,
+          "valueString": null,
+          "description": null,
+          "status": 67,
+          "systemTime": null,
+          "source": null
+        },
+        "carbsValue": {
+          "guid": null,
+          "from": null,
+          "to": null,
+          "value": 0.067,
+          "valueString": null,
+          "description": null,
+          "status": 23,
+          "systemTime": null,
+          "source": null
+        }
+      }
+    ],
+    "target": [],
+    "values": [],
+    "tableData": [],
+    "page": 47,
+    "limit": 7,
+    "targetPaged": null,
+    "valuesPaged": null,
+    "tableDataPaged": null,
+    "min": null,
+    "max": null
+  }
+}

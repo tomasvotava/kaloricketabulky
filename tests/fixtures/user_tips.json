@@ -1,0 +1,34 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": [
+    {
+      "key": "analysis.praise.102",
+      "title": "Super, v posledních 3 dnech jsi snědl/a dostatek ovoce a zeleniny.",
+      "text": "Dodáváš tím svému tělu nejen důležité vitamíny, minerální látky, stopové prvky a antioxidanty, ale také významné množství vlákniny. Určitě sis všiml/a, že ovoce a zelenina zvyšují pocit sytosti a plnosti – jsou proto skvělým pomocníkem při hubnutí. Vhodná je především konzumace chemicky neošetřené zeleniny a ovoce.",
+      "advice": null,
+      "icon": "apple_carrot_gray_250",
+      "indicator": 62,
+      "order": 98
+    },
+    {
+      "key": "analysis.tip.105",
+      "title": "Trochu ubereme. Během posledních 3 dnů máš v jídelníčku nadbytek bílkovin.",
+      "text": "Dlouhodobý nadbytek bílkovin Ti může způsobit pocit nafouklého břicha, nadýmání a může se jevit i jako zátěž pro játra a ledviny při jejich metabolismu (= rozkladu, vstřebávání a vylučování).",
+      "advice": null,
+      "icon": "egg_gray_250",
+      "indicator": 46,
+      "order": 82
+    },
+    {
+      "key": "analysis.tip.112",
+      "title": "Ubereme cukr. Za poslední 3 dny ho máš v jídelníčku větší množství.",
+      "text": "Jednoduché sacharidy by v jídelníčku neměly zabírat příliš mnoho prostoru, nejsou-li vykompenzovány fyzickou aktivitou. Jednoduché cukry bychom měli přijímat především z neslazených mléčných výrobků (například z mléka, jogurtů, zakysaných mlék...), z čerstvého ovoce, popřípadě medu. Všechny ostatní cukry jsou víceméně zbytečné (přidaný cukr, sirupy, slazené nápoje, sladkosti, bonbony, moučníky, zákusky, dorty...) a jsou tak pouhou „prázdnou energií“. Pokud si již takové potraviny a pokrmy dopřeješ, je vysoce žádoucí je zužitkovat fyzickou aktivitou.",
+      "advice": null,
+      "icon": "cake_gray_250",
+      "indicator": 36,
+      "order": 73
+    }
+  ]
+}

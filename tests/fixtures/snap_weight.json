@@ -1,0 +1,75 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": {
+    "guid": null,
+    "type": "weight",
+    "from": null,
+    "to": null,
+    "unit": "kcal",
+    "graph": null,
+    "nutrientsTarget": [],
+    "nutrientsValues": [],
+    "nutrientsTableData": [],
+    "target": [
+      {
+        "guid": "000000000000000000000000000000dd",
+        "from": 1605635693017,
+        "to": null,
+        "value": null,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "values": [
+      {
+        "guid": "000000000000000000000000000000de",
+        "from": 1595458714940,
+        "to": null,
+        "value": 16.173,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "tableData": [
+      {
+        "value": {
+          "guid": "000000000000000000000000000000de",
+          "from": 1583633932512,
+          "to": null,
+          "value": 92.294,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        "target": {
+          "guid": "000000000000000000000000000000dd",
+          "from": 1597721386628,
+          "to": null,
+          "value": null,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      }
+    ],
+    "page": 73,
+    "limit": 52,
+    "targetPaged": null,
+    "valuesPaged": null,
+    "tableDataPaged": null,
+    "min": 41.915,
+    "max": 7.384
+  }
+}
