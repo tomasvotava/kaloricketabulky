@@ -1,0 +1,57 @@
+name: release
+
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - closed
+
+jobs:
+  release:
+    # Only when a release/* pull request is actually merged.
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'release/')
+    runs-on: ubuntu-latest
+    environment:
+      name: pypi
+      url: https://pypi.org/p/kaloricketabulky-sdk
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v6
+        name: Checkout
+        with:
+          ref: master
+          fetch-depth: 0
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - uses: astral-sh/setup-uv@v7
+        name: Install uv
+        with:
+          enable-cache: true
+          python-version: "3.13"
+      - name: Read the version
+        id: version
+        run: |
+          VERSION=$(grep -m1 -oP '^version = "\K[^"]+' pyproject.toml)
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+      - name: Build the package
+        run: uv build
+      - name: Create and push the tag
+        run: |
+          git tag "${{ steps.version.outputs.version }}"
+          git push origin "${{ steps.version.outputs.version }}"
+      - name: Publish to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
+      - name: Create the GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "${{ steps.version.outputs.version }}"
+          name: "Release ${{ steps.version.outputs.version }}"
+          files: |
+            dist/kaloricketabulky_sdk-${{ steps.version.outputs.version }}.tar.gz
+            dist/kaloricketabulky_sdk-${{ steps.version.outputs.version }}-py3-none-any.whl
+          generate_release_notes: true
