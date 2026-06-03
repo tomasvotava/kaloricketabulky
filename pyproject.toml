@@ -24,6 +24,7 @@ dependencies = [
     "pydantic>=2.10.6,<3",
     "env-proxy>=1.1.1,<2",
     "python-dotenv>=1.0.1,<2",
+    "tzdata>=2026.2 ; sys_platform == 'win32'",
 ]
 
 [project.urls]
