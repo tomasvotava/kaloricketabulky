@@ -1,0 +1,167 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": {
+    "date": "01.01.2020",
+    "todayEnergy": "53.932",
+    "todayEnergyTarget": "25.285",
+    "energyUnit": "kcal",
+    "energyUnitCode": "kcal",
+    "todayDrink": "3,006",
+    "todayDrinkTarget": "76,716",
+    "drinkUnit": "l",
+    "todayActivity": "70.961",
+    "todayDiaryTimes": null,
+    "basal": "21.55",
+    "amr": "88.692",
+    "amrEnergy": "14.693",
+    "bmi": "46,187",
+    "bmiCategory": "nadváha",
+    "bmiRisk": "nízká",
+    "mode": 24,
+    "weekDate": "01.01.2020 - 07.01.2020",
+    "weekEnergy": [
+      {
+        "title": "Út",
+        "status": 75,
+        "value": 31.185
+      },
+      {
+        "title": "St",
+        "status": 24,
+        "value": 12.199
+      },
+      {
+        "title": "Čt",
+        "status": 18,
+        "value": 50.617
+      },
+      {
+        "title": "Pá",
+        "status": 47,
+        "value": 31.803
+      },
+      {
+        "title": "So",
+        "status": 40,
+        "value": 88.117
+      },
+      {
+        "title": "Ne",
+        "status": 89,
+        "value": 46.844
+      },
+      {
+        "title": "Po",
+        "status": 21,
+        "value": 12.84
+      }
+    ],
+    "weekDrink": [
+      {
+        "title": "Út",
+        "status": 57,
+        "value": 24.909
+      },
+      {
+        "title": "St",
+        "status": 4,
+        "value": 55.213
+      },
+      {
+        "title": "Čt",
+        "status": 46,
+        "value": 65.085
+      },
+      {
+        "title": "Pá",
+        "status": 56,
+        "value": 83.928
+      },
+      {
+        "title": "So",
+        "status": 21,
+        "value": 97.512
+      },
+      {
+        "title": "Ne",
+        "status": 8,
+        "value": 10.917
+      },
+      {
+        "title": "Po",
+        "status": 39,
+        "value": 13.306
+      }
+    ],
+    "weekActivity": [
+      {
+        "title": "Út",
+        "status": 78,
+        "value": 74.105
+      },
+      {
+        "title": "St",
+        "status": 38,
+        "value": 13.08
+      },
+      {
+        "title": "Čt",
+        "status": 42,
+        "value": 1.378
+      },
+      {
+        "title": "Pá",
+        "status": 95,
+        "value": 68.287
+      },
+      {
+        "title": "So",
+        "status": 41,
+        "value": 91.523
+      },
+      {
+        "title": "Ne",
+        "status": 99,
+        "value": 89.825
+      },
+      {
+        "title": "Po",
+        "status": 81,
+        "value": 53.521
+      }
+    ],
+    "weight": "60,193",
+    "weightTarget": "64.991",
+    "weightUnit": "kg",
+    "monthWeightTarget": [
+      {
+        "guid": "000000000000000000000000000000dd",
+        "from": 1601245720863,
+        "to": null,
+        "value": null,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "monthWeight": [
+      {
+        "guid": "000000000000000000000000000000de",
+        "from": 1595476318481,
+        "to": null,
+        "value": 31.299,
+        "valueString": null,
+        "description": null,
+        "status": null,
+        "systemTime": null,
+        "source": null
+      }
+    ],
+    "monthWeightMin": 19.579,
+    "monthWeightMax": 86.615
+  }
+}

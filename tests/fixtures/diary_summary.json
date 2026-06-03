@@ -1,0 +1,141 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": {
+    "date": null,
+    "items": [
+      {
+        "title": null,
+        "titleShort": null,
+        "unit": "kcal",
+        "goal": "84.09",
+        "actual": "72.182",
+        "percent": 7,
+        "actualValue": 24.144,
+        "code": "total"
+      },
+      {
+        "title": "Pitný režim",
+        "titleShort": null,
+        "unit": "l",
+        "goal": "29,911",
+        "actual": "6,211",
+        "percent": 88,
+        "actualValue": 79.587,
+        "code": null
+      },
+      {
+        "title": "Cílová hmotnost",
+        "titleShort": null,
+        "unit": "kg",
+        "goal": null,
+        "actual": "42,795",
+        "percent": null,
+        "actualValue": 57.217,
+        "code": null
+      }
+    ],
+    "itemsDynamic": [
+      [
+        {
+          "title": "Bílkoviny",
+          "titleShort": "Bílkoviny",
+          "unit": "g",
+          "goal": "23.426",
+          "actual": "68,207",
+          "percent": 21,
+          "actualValue": 48.074,
+          "code": "protein"
+        },
+        {
+          "title": "Sacharidy",
+          "titleShort": "Sacharidy",
+          "unit": "g",
+          "goal": "69.942",
+          "actual": "8,322",
+          "percent": 32,
+          "actualValue": 15.629,
+          "code": "carbohydrate"
+        },
+        {
+          "title": "Tuky",
+          "titleShort": "Tuky",
+          "unit": "g",
+          "goal": "30,351",
+          "actual": "64,87",
+          "percent": 20,
+          "actualValue": 85.378,
+          "code": "fat"
+        },
+        {
+          "title": "Vláknina",
+          "titleShort": "Vláknina",
+          "unit": "g",
+          "goal": "92,052",
+          "actual": "85,629",
+          "percent": 60,
+          "actualValue": 53.143,
+          "code": "fiber"
+        }
+      ],
+      [
+        {
+          "title": "Cukry",
+          "titleShort": "Cukry",
+          "unit": "g",
+          "goal": "29,997",
+          "actual": "41,315",
+          "percent": 42,
+          "actualValue": 90.556,
+          "code": "sugar"
+        },
+        {
+          "title": "Vápník",
+          "titleShort": "Vápník",
+          "unit": "mg",
+          "goal": "65.154",
+          "actual": "99.097",
+          "percent": 1,
+          "actualValue": 72.37,
+          "code": "calcium"
+        },
+        {
+          "title": "Nasycené mastné kyseliny",
+          "titleShort": "Nasycené mastné...",
+          "unit": "g",
+          "goal": "0,102",
+          "actual": "33,751",
+          "percent": 3,
+          "actualValue": 36.73,
+          "code": "saturatedFattyAcid"
+        }
+      ]
+    ],
+    "activityEnergyTotal": 47.275,
+    "foodstuffEnergyTotal": 1.107,
+    "digestion": null,
+    "energyUnit": null,
+    "weight": "23,545",
+    "alcohol": "27.171",
+    "mode": 98,
+    "nutrientsFromActivities": true,
+    "balance": {
+      "energyOutputTotal": "17.422",
+      "energyIntakeMaintenance": "53.502",
+      "energyDeficit": "45.292",
+      "target": "38.772",
+      "basal": "46.732",
+      "digestion": false,
+      "considerActivity": true,
+      "ownTarget": false,
+      "ownTargetValue": null,
+      "intake": "33.967",
+      "intakePercent": "43.753",
+      "intakeRest": "92.89",
+      "intakeRestPercent": "8.858",
+      "output": "2.088",
+      "aml": null
+    }
+  }
+}

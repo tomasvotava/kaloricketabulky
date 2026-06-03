@@ -1,0 +1,5520 @@
+{
+  "requestId": null,
+  "code": 0,
+  "message": null,
+  "data": [
+    {
+      "guid": "00000000000000000000000000000000",
+      "type": "Obvod paže [cm]",
+      "from": 1597069790893,
+      "to": 1591763038589,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "00000000000000000000000000000001",
+          "from": 1591284962886,
+          "to": null,
+          "value": 45.702,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "00000000000000000000000000000001",
+            "from": 1608124908327,
+            "to": null,
+            "value": 62.208,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 32,
+      "limit": 83,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    },
+    {
+      "guid": "00000000000000000000000000000002",
+      "type": "Voda [%]",
+      "from": 1605101475493,
+      "to": 1596832990531,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "00000000000000000000000000000003",
+          "from": 1582496597284,
+          "to": null,
+          "value": 97.592,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000004",
+          "from": 1584548217663,
+          "to": null,
+          "value": 3.433,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000005",
+          "from": 1585222076901,
+          "to": null,
+          "value": 90.445,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000006",
+          "from": 1579051126418,
+          "to": null,
+          "value": 25.922,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000007",
+          "from": 1581581914349,
+          "to": null,
+          "value": 86.874,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000008",
+          "from": 1600160220962,
+          "to": null,
+          "value": 21.746,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000009",
+          "from": 1605456903396,
+          "to": null,
+          "value": 99.26,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000a",
+          "from": 1597106576209,
+          "to": null,
+          "value": 28.418,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000b",
+          "from": 1596021888610,
+          "to": null,
+          "value": 9.562,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000c",
+          "from": 1608301696028,
+          "to": null,
+          "value": 87.863,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000d",
+          "from": 1603516807045,
+          "to": null,
+          "value": 49.758,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000e",
+          "from": 1586725972720,
+          "to": null,
+          "value": 45.65,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000000f",
+          "from": 1591605876339,
+          "to": null,
+          "value": 80.64,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000010",
+          "from": 1594354487082,
+          "to": null,
+          "value": 11.779,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000011",
+          "from": 1600826181232,
+          "to": null,
+          "value": 49.903,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000012",
+          "from": 1588419863277,
+          "to": null,
+          "value": 86.145,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000013",
+          "from": 1578832496520,
+          "to": null,
+          "value": 15.231,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000014",
+          "from": 1587448898005,
+          "to": null,
+          "value": 80.966,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000015",
+          "from": 1579673000664,
+          "to": null,
+          "value": 52.628,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000016",
+          "from": 1602303794470,
+          "to": null,
+          "value": 23.449,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000017",
+          "from": 1593855558241,
+          "to": null,
+          "value": 37.939,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000018",
+          "from": 1594039599455,
+          "to": null,
+          "value": 75.652,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000019",
+          "from": 1605763142196,
+          "to": null,
+          "value": 18.647,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001a",
+          "from": 1594627629820,
+          "to": null,
+          "value": 15.17,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001b",
+          "from": 1591815043090,
+          "to": null,
+          "value": 64.769,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001c",
+          "from": 1600275179028,
+          "to": null,
+          "value": 65.862,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001d",
+          "from": 1597686987101,
+          "to": null,
+          "value": 21.811,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001e",
+          "from": 1607702351643,
+          "to": null,
+          "value": 1.093,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000001f",
+          "from": 1592371973947,
+          "to": null,
+          "value": 9.568,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000020",
+          "from": 1602257980541,
+          "to": null,
+          "value": 53.16,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000021",
+          "from": 1607049976804,
+          "to": null,
+          "value": 86.869,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000022",
+          "from": 1588024954933,
+          "to": null,
+          "value": 0.732,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000023",
+          "from": 1605499965309,
+          "to": null,
+          "value": 69.943,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000024",
+          "from": 1593678903724,
+          "to": null,
+          "value": 58.992,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000025",
+          "from": 1580106231789,
+          "to": null,
+          "value": 16.694,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000026",
+          "from": 1586708914250,
+          "to": null,
+          "value": 99.674,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000027",
+          "from": 1582845448511,
+          "to": null,
+          "value": 99.965,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000028",
+          "from": 1600754764436,
+          "to": null,
+          "value": 81.979,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000029",
+          "from": 1588171236755,
+          "to": null,
+          "value": 36.253,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002a",
+          "from": 1603571885706,
+          "to": null,
+          "value": 46.414,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002b",
+          "from": 1592490981467,
+          "to": null,
+          "value": 32.184,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002c",
+          "from": 1586824505170,
+          "to": null,
+          "value": 67.615,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002d",
+          "from": 1595521299446,
+          "to": null,
+          "value": 10.004,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002e",
+          "from": 1578925905786,
+          "to": null,
+          "value": 11.217,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000002f",
+          "from": 1580951049858,
+          "to": null,
+          "value": 69.817,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000030",
+          "from": 1597899101760,
+          "to": null,
+          "value": 62.768,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000031",
+          "from": 1596073092390,
+          "to": null,
+          "value": 35.931,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000032",
+          "from": 1587625644538,
+          "to": null,
+          "value": 90.327,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000033",
+          "from": 1601658028278,
+          "to": null,
+          "value": 34.034,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000034",
+          "from": 1585070568699,
+          "to": null,
+          "value": 65.919,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000035",
+          "from": 1596922508457,
+          "to": null,
+          "value": 30.34,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000036",
+          "from": 1606484266518,
+          "to": null,
+          "value": 28.707,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000037",
+          "from": 1598098011941,
+          "to": null,
+          "value": 19.632,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000038",
+          "from": 1595064088999,
+          "to": null,
+          "value": 15.518,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000039",
+          "from": 1606934173983,
+          "to": null,
+          "value": 3.013,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003a",
+          "from": 1601515849951,
+          "to": null,
+          "value": 9.322,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003b",
+          "from": 1583535415447,
+          "to": null,
+          "value": 91.638,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003c",
+          "from": 1582197983482,
+          "to": null,
+          "value": 63.93,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003d",
+          "from": 1593942890677,
+          "to": null,
+          "value": 46.342,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003e",
+          "from": 1594011354383,
+          "to": null,
+          "value": 86.799,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000003f",
+          "from": 1603477746305,
+          "to": null,
+          "value": 20.742,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000040",
+          "from": 1590191573514,
+          "to": null,
+          "value": 47.59,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000041",
+          "from": 1605153111132,
+          "to": null,
+          "value": 9.487,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000042",
+          "from": 1587220907363,
+          "to": null,
+          "value": 27.667,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000043",
+          "from": 1605844758696,
+          "to": null,
+          "value": 5.036,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000044",
+          "from": 1584178396570,
+          "to": null,
+          "value": 37.344,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000045",
+          "from": 1606277739409,
+          "to": null,
+          "value": 27.13,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000046",
+          "from": 1598518939653,
+          "to": null,
+          "value": 40.066,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000047",
+          "from": 1595173886901,
+          "to": null,
+          "value": 17.614,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000048",
+          "from": 1588843107977,
+          "to": null,
+          "value": 39.26,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "00000000000000000000000000000048",
+            "from": 1596074702512,
+            "to": null,
+            "value": 80.088,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000047",
+            "from": 1579416156885,
+            "to": null,
+            "value": 24.352,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000046",
+            "from": 1590669066343,
+            "to": null,
+            "value": 6.71,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000045",
+            "from": 1601093664606,
+            "to": null,
+            "value": 18.162,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000044",
+            "from": 1582354544378,
+            "to": null,
+            "value": 25.746,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000043",
+            "from": 1585729787122,
+            "to": null,
+            "value": 74.881,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000042",
+            "from": 1582190765049,
+            "to": null,
+            "value": 74.517,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000041",
+            "from": 1605855238551,
+            "to": null,
+            "value": 81.133,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000040",
+            "from": 1585803539544,
+            "to": null,
+            "value": 29.448,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003f",
+            "from": 1600971571392,
+            "to": null,
+            "value": 27.44,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003e",
+            "from": 1608252010512,
+            "to": null,
+            "value": 80.509,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003d",
+            "from": 1584253653603,
+            "to": null,
+            "value": 20.775,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003c",
+            "from": 1581780759589,
+            "to": null,
+            "value": 28.621,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003b",
+            "from": 1590379437275,
+            "to": null,
+            "value": 57.051,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000003a",
+            "from": 1592629612552,
+            "to": null,
+            "value": 40.095,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000039",
+            "from": 1584003022434,
+            "to": null,
+            "value": 27.682,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000038",
+            "from": 1602403493824,
+            "to": null,
+            "value": 75.183,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000037",
+            "from": 1604218650778,
+            "to": null,
+            "value": 93.892,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000036",
+            "from": 1592789314600,
+            "to": null,
+            "value": 0.261,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000035",
+            "from": 1597558499589,
+            "to": null,
+            "value": 10.765,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000034",
+            "from": 1590181111523,
+            "to": null,
+            "value": 7.418,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000033",
+            "from": 1604137160256,
+            "to": null,
+            "value": 49.108,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000032",
+            "from": 1595732207375,
+            "to": null,
+            "value": 58.24,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000031",
+            "from": 1604709264067,
+            "to": null,
+            "value": 24.159,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000030",
+            "from": 1594645634943,
+            "to": null,
+            "value": 75.588,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002f",
+            "from": 1579608484309,
+            "to": null,
+            "value": 97.518,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002e",
+            "from": 1608887510142,
+            "to": null,
+            "value": 60.166,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002d",
+            "from": 1605186793242,
+            "to": null,
+            "value": 7.271,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002c",
+            "from": 1580730534792,
+            "to": null,
+            "value": 84.424,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002b",
+            "from": 1600400458213,
+            "to": null,
+            "value": 12.625,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000002a",
+            "from": 1604077359288,
+            "to": null,
+            "value": 14.027,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000029",
+            "from": 1588176552733,
+            "to": null,
+            "value": 39.692,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000028",
+            "from": 1606122753706,
+            "to": null,
+            "value": 64.347,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000027",
+            "from": 1599088308363,
+            "to": null,
+            "value": 46.074,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000026",
+            "from": 1579104559302,
+            "to": null,
+            "value": 56.155,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000025",
+            "from": 1580921874569,
+            "to": null,
+            "value": 61.991,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000024",
+            "from": 1598655880832,
+            "to": null,
+            "value": 4.517,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000023",
+            "from": 1584866617996,
+            "to": null,
+            "value": 44.682,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000022",
+            "from": 1605430194329,
+            "to": null,
+            "value": 16.604,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000021",
+            "from": 1607154953272,
+            "to": null,
+            "value": 7.93,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000020",
+            "from": 1580453308729,
+            "to": null,
+            "value": 69.398,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001f",
+            "from": 1607487270624,
+            "to": null,
+            "value": 8.475,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001e",
+            "from": 1599865084803,
+            "to": null,
+            "value": 59.897,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001d",
+            "from": 1606598221561,
+            "to": null,
+            "value": 55.037,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001c",
+            "from": 1599999681323,
+            "to": null,
+            "value": 4.352,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001b",
+            "from": 1581939420905,
+            "to": null,
+            "value": 56.395,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000001a",
+            "from": 1581700832405,
+            "to": null,
+            "value": 58.703,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000019",
+            "from": 1603920714688,
+            "to": null,
+            "value": 69.803,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000018",
+            "from": 1586036633503,
+            "to": null,
+            "value": 78.838,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000017",
+            "from": 1586730942214,
+            "to": null,
+            "value": 54.835,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000016",
+            "from": 1604348226154,
+            "to": null,
+            "value": 72.565,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000015",
+            "from": 1579989899446,
+            "to": null,
+            "value": 9.766,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000014",
+            "from": 1581919238817,
+            "to": null,
+            "value": 78.367,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000013",
+            "from": 1589257705225,
+            "to": null,
+            "value": 99.834,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000012",
+            "from": 1596860132529,
+            "to": null,
+            "value": 47.767,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000011",
+            "from": 1599600805071,
+            "to": null,
+            "value": 10.678,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000010",
+            "from": 1580015650773,
+            "to": null,
+            "value": 10.787,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000f",
+            "from": 1594989603235,
+            "to": null,
+            "value": 2.314,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000e",
+            "from": 1597238176649,
+            "to": null,
+            "value": 65.472,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000d",
+            "from": 1594117199457,
+            "to": null,
+            "value": 34.682,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000c",
+            "from": 1589555376738,
+            "to": null,
+            "value": 85.641,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000b",
+            "from": 1606657114756,
+            "to": null,
+            "value": 97.165,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000000a",
+            "from": 1598956370675,
+            "to": null,
+            "value": 22.219,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000009",
+            "from": 1578641536635,
+            "to": null,
+            "value": 29.311,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000008",
+            "from": 1599196331907,
+            "to": null,
+            "value": 86.466,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000007",
+            "from": 1584422157020,
+            "to": null,
+            "value": 78.314,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000006",
+            "from": 1608921576484,
+            "to": null,
+            "value": 82.729,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000005",
+            "from": 1594453802073,
+            "to": null,
+            "value": 0.138,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000004",
+            "from": 1587103568081,
+            "to": null,
+            "value": 74.898,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000003",
+            "from": 1591556970259,
+            "to": null,
+            "value": 54.076,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 92,
+      "limit": 67,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    },
+    {
+      "guid": "00000000000000000000000000000049",
+      "type": "Svaly [%]",
+      "from": 1593306727978,
+      "to": 1578255633609,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "0000000000000000000000000000004a",
+          "from": 1602723456133,
+          "to": null,
+          "value": 40.119,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000004b",
+          "from": 1581275277880,
+          "to": null,
+          "value": 96.138,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000004c",
+          "from": 1582551777657,
+          "to": null,
+          "value": 57.017,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000004d",
+          "from": 1603119527437,
+          "to": null,
+          "value": 5.467,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000004e",
+          "from": 1585610747320,
+          "to": null,
+          "value": 8.206,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000004f",
+          "from": 1588980873858,
+          "to": null,
+          "value": 11.139,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000050",
+          "from": 1582573935645,
+          "to": null,
+          "value": 97.386,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000051",
+          "from": 1607083340209,
+          "to": null,
+          "value": 95.295,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000052",
+          "from": 1581389583076,
+          "to": null,
+          "value": 21.896,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000053",
+          "from": 1592430722483,
+          "to": null,
+          "value": 67.853,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000054",
+          "from": 1579657279230,
+          "to": null,
+          "value": 46.177,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000055",
+          "from": 1604491092872,
+          "to": null,
+          "value": 53.819,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000056",
+          "from": 1596450745563,
+          "to": null,
+          "value": 98.687,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000057",
+          "from": 1594905552279,
+          "to": null,
+          "value": 74.99,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000058",
+          "from": 1602127943204,
+          "to": null,
+          "value": 17.289,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000059",
+          "from": 1594631003384,
+          "to": null,
+          "value": 37.273,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005a",
+          "from": 1594407925660,
+          "to": null,
+          "value": 6.66,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005b",
+          "from": 1599039780872,
+          "to": null,
+          "value": 1.543,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005c",
+          "from": 1592990397293,
+          "to": null,
+          "value": 28.564,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005d",
+          "from": 1578856644409,
+          "to": null,
+          "value": 66.45,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005e",
+          "from": 1604760566021,
+          "to": null,
+          "value": 77.122,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000005f",
+          "from": 1596634256189,
+          "to": null,
+          "value": 68.426,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000060",
+          "from": 1603502356035,
+          "to": null,
+          "value": 12.89,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000061",
+          "from": 1593730320702,
+          "to": null,
+          "value": 64.192,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000062",
+          "from": 1586680608438,
+          "to": null,
+          "value": 20.977,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000063",
+          "from": 1584448362460,
+          "to": null,
+          "value": 0.897,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000064",
+          "from": 1584449115724,
+          "to": null,
+          "value": 51.257,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000065",
+          "from": 1592626065675,
+          "to": null,
+          "value": 74.486,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000066",
+          "from": 1600751510541,
+          "to": null,
+          "value": 4.516,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000067",
+          "from": 1607807683063,
+          "to": null,
+          "value": 91.576,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000068",
+          "from": 1579345125190,
+          "to": null,
+          "value": 79.941,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000069",
+          "from": 1581807388495,
+          "to": null,
+          "value": 65.686,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006a",
+          "from": 1606689453545,
+          "to": null,
+          "value": 1.834,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006b",
+          "from": 1590939612252,
+          "to": null,
+          "value": 0.937,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006c",
+          "from": 1587508643563,
+          "to": null,
+          "value": 27.76,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006d",
+          "from": 1606233613283,
+          "to": null,
+          "value": 45.982,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006e",
+          "from": 1590538549295,
+          "to": null,
+          "value": 10.518,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000006f",
+          "from": 1603806907785,
+          "to": null,
+          "value": 17.491,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000070",
+          "from": 1598893300435,
+          "to": null,
+          "value": 11.25,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000071",
+          "from": 1592544861593,
+          "to": null,
+          "value": 3.719,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000072",
+          "from": 1600072133085,
+          "to": null,
+          "value": 54.896,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000073",
+          "from": 1582714317912,
+          "to": null,
+          "value": 59.289,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000074",
+          "from": 1584619696147,
+          "to": null,
+          "value": 83.45,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000075",
+          "from": 1582436330745,
+          "to": null,
+          "value": 49.82,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000076",
+          "from": 1604384956326,
+          "to": null,
+          "value": 24.349,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000077",
+          "from": 1595644640658,
+          "to": null,
+          "value": 45.432,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000078",
+          "from": 1588460447565,
+          "to": null,
+          "value": 17.245,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000079",
+          "from": 1603491753203,
+          "to": null,
+          "value": 51.337,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007a",
+          "from": 1585526851064,
+          "to": null,
+          "value": 81.031,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007b",
+          "from": 1583854643494,
+          "to": null,
+          "value": 95.259,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007c",
+          "from": 1589385428839,
+          "to": null,
+          "value": 77.838,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007d",
+          "from": 1600182881162,
+          "to": null,
+          "value": 28.077,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007e",
+          "from": 1608839695095,
+          "to": null,
+          "value": 21.302,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000007f",
+          "from": 1605071259283,
+          "to": null,
+          "value": 51.931,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000080",
+          "from": 1581254801711,
+          "to": null,
+          "value": 28.751,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000081",
+          "from": 1590469183283,
+          "to": null,
+          "value": 10.861,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000082",
+          "from": 1582232722237,
+          "to": null,
+          "value": 36.886,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000083",
+          "from": 1588348768754,
+          "to": null,
+          "value": 42.959,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000084",
+          "from": 1578738680016,
+          "to": null,
+          "value": 89.955,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000085",
+          "from": 1608864750647,
+          "to": null,
+          "value": 36.518,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000086",
+          "from": 1578364598772,
+          "to": null,
+          "value": 51.547,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000087",
+          "from": 1604122346394,
+          "to": null,
+          "value": 99.216,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000088",
+          "from": 1591022504638,
+          "to": null,
+          "value": 94.265,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000089",
+          "from": 1578034143382,
+          "to": null,
+          "value": 97.699,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008a",
+          "from": 1599873553105,
+          "to": null,
+          "value": 54.825,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008b",
+          "from": 1604180652118,
+          "to": null,
+          "value": 99.417,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008c",
+          "from": 1581613017463,
+          "to": null,
+          "value": 58.384,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008d",
+          "from": 1599054820476,
+          "to": null,
+          "value": 27.732,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008e",
+          "from": 1585253489154,
+          "to": null,
+          "value": 73.726,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000008f",
+          "from": 1582407102647,
+          "to": null,
+          "value": 64.733,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008f",
+            "from": 1599662158047,
+            "to": null,
+            "value": 8.389,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008e",
+            "from": 1603446612616,
+            "to": null,
+            "value": 86.532,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008d",
+            "from": 1607646790640,
+            "to": null,
+            "value": 64.936,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008c",
+            "from": 1595455637985,
+            "to": null,
+            "value": 61.665,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008b",
+            "from": 1608045333088,
+            "to": null,
+            "value": 54.311,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000008a",
+            "from": 1601788821554,
+            "to": null,
+            "value": 76.35,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000089",
+            "from": 1600349363127,
+            "to": null,
+            "value": 96.809,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000088",
+            "from": 1600637550836,
+            "to": null,
+            "value": 63.215,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000087",
+            "from": 1604549603228,
+            "to": null,
+            "value": 97.153,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000086",
+            "from": 1595701780884,
+            "to": null,
+            "value": 30.874,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000085",
+            "from": 1602031998234,
+            "to": null,
+            "value": 50.679,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000084",
+            "from": 1581775494923,
+            "to": null,
+            "value": 68.723,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000083",
+            "from": 1586913836710,
+            "to": null,
+            "value": 33.016,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000082",
+            "from": 1596089000678,
+            "to": null,
+            "value": 17.555,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000081",
+            "from": 1602258085891,
+            "to": null,
+            "value": 6.743,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000080",
+            "from": 1601496638708,
+            "to": null,
+            "value": 11.391,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007f",
+            "from": 1608280688122,
+            "to": null,
+            "value": 95.027,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007e",
+            "from": 1591772903313,
+            "to": null,
+            "value": 81.286,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007d",
+            "from": 1584172312638,
+            "to": null,
+            "value": 90.48,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007c",
+            "from": 1606118713716,
+            "to": null,
+            "value": 71.77,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007b",
+            "from": 1600628443302,
+            "to": null,
+            "value": 70.416,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000007a",
+            "from": 1578017171244,
+            "to": null,
+            "value": 76.271,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000079",
+            "from": 1579332037179,
+            "to": null,
+            "value": 72.97,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000078",
+            "from": 1590288060749,
+            "to": null,
+            "value": 32.691,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000077",
+            "from": 1587990219855,
+            "to": null,
+            "value": 92.681,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000076",
+            "from": 1578244033797,
+            "to": null,
+            "value": 38.511,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000075",
+            "from": 1603665580813,
+            "to": null,
+            "value": 22.329,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000074",
+            "from": 1600260537074,
+            "to": null,
+            "value": 9.743,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000073",
+            "from": 1589679936695,
+            "to": null,
+            "value": 84.503,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000072",
+            "from": 1597593368981,
+            "to": null,
+            "value": 3.867,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000071",
+            "from": 1594805411896,
+            "to": null,
+            "value": 63.376,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000070",
+            "from": 1586995918541,
+            "to": null,
+            "value": 84.355,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006f",
+            "from": 1594536028959,
+            "to": null,
+            "value": 21.625,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006e",
+            "from": 1579459689012,
+            "to": null,
+            "value": 81.384,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006d",
+            "from": 1607734430751,
+            "to": null,
+            "value": 91.606,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006c",
+            "from": 1608661638870,
+            "to": null,
+            "value": 51.003,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006b",
+            "from": 1588868815926,
+            "to": null,
+            "value": 73.235,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000006a",
+            "from": 1589446667526,
+            "to": null,
+            "value": 9.03,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000069",
+            "from": 1600129318494,
+            "to": null,
+            "value": 78.389,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000068",
+            "from": 1595713934157,
+            "to": null,
+            "value": 26.913,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000067",
+            "from": 1592526181735,
+            "to": null,
+            "value": 64.534,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000066",
+            "from": 1582790185842,
+            "to": null,
+            "value": 72.676,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000065",
+            "from": 1606283433544,
+            "to": null,
+            "value": 88.547,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000064",
+            "from": 1578157433073,
+            "to": null,
+            "value": 10.308,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000063",
+            "from": 1590293198171,
+            "to": null,
+            "value": 94.174,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000062",
+            "from": 1584024176869,
+            "to": null,
+            "value": 5.693,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000061",
+            "from": 1583510596645,
+            "to": null,
+            "value": 23.793,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000060",
+            "from": 1598768993390,
+            "to": null,
+            "value": 16.491,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005f",
+            "from": 1584585530503,
+            "to": null,
+            "value": 68.258,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005e",
+            "from": 1588430839430,
+            "to": null,
+            "value": 96.515,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005d",
+            "from": 1586981212271,
+            "to": null,
+            "value": 91.838,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005c",
+            "from": 1605152659676,
+            "to": null,
+            "value": 30.887,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005b",
+            "from": 1589142204376,
+            "to": null,
+            "value": 71.768,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000005a",
+            "from": 1589453119248,
+            "to": null,
+            "value": 9.078,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000059",
+            "from": 1578187631302,
+            "to": null,
+            "value": 64.417,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000058",
+            "from": 1592314773600,
+            "to": null,
+            "value": 16.845,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000057",
+            "from": 1600324630143,
+            "to": null,
+            "value": 87.388,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000056",
+            "from": 1606191174306,
+            "to": null,
+            "value": 16.333,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000055",
+            "from": 1597255790951,
+            "to": null,
+            "value": 75.453,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000054",
+            "from": 1593251399169,
+            "to": null,
+            "value": 65.946,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000053",
+            "from": 1596122877931,
+            "to": null,
+            "value": 33.146,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000052",
+            "from": 1605102998252,
+            "to": null,
+            "value": 10.078,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000051",
+            "from": 1607435079955,
+            "to": null,
+            "value": 0.911,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000050",
+            "from": 1591935827713,
+            "to": null,
+            "value": 51.533,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004f",
+            "from": 1607563389691,
+            "to": null,
+            "value": 63.793,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004e",
+            "from": 1598249689504,
+            "to": null,
+            "value": 55.623,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004d",
+            "from": 1605644687200,
+            "to": null,
+            "value": 52.009,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004c",
+            "from": 1600363008803,
+            "to": null,
+            "value": 99.529,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004b",
+            "from": 1589270408354,
+            "to": null,
+            "value": 58.546,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000004a",
+            "from": 1606645585304,
+            "to": null,
+            "value": 84.819,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 34,
+      "limit": 32,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    },
+    {
+      "guid": "00000000000000000000000000000090",
+      "type": "Obvod hrudníku horní [cm]",
+      "from": 1594626331656,
+      "to": 1580853209454,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "00000000000000000000000000000091",
+          "from": 1584936990360,
+          "to": null,
+          "value": 21.873,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000092",
+          "from": 1598804616758,
+          "to": null,
+          "value": 72.039,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "00000000000000000000000000000092",
+            "from": 1579638158178,
+            "to": null,
+            "value": 6.928,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000091",
+            "from": 1605018322972,
+            "to": null,
+            "value": 5.768,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 35,
+      "limit": 12,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    },
+    {
+      "guid": "00000000000000000000000000000093",
+      "type": "Tuky [%]",
+      "from": 1599160211937,
+      "to": 1586132551702,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "00000000000000000000000000000094",
+          "from": 1583305015471,
+          "to": null,
+          "value": 67.037,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000095",
+          "from": 1585682313949,
+          "to": null,
+          "value": 24.493,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000096",
+          "from": 1607026367679,
+          "to": null,
+          "value": 87.031,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000097",
+          "from": 1593371406034,
+          "to": null,
+          "value": 90.821,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000098",
+          "from": 1590746121210,
+          "to": null,
+          "value": 92.394,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "00000000000000000000000000000099",
+          "from": 1581587053239,
+          "to": null,
+          "value": 8.673,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009a",
+          "from": 1582390406086,
+          "to": null,
+          "value": 91.204,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009b",
+          "from": 1602625075925,
+          "to": null,
+          "value": 32.03,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009c",
+          "from": 1598355386062,
+          "to": null,
+          "value": 37.097,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009d",
+          "from": 1591896301644,
+          "to": null,
+          "value": 15.809,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009e",
+          "from": 1598328711533,
+          "to": null,
+          "value": 20.223,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "0000000000000000000000000000009f",
+          "from": 1608474392237,
+          "to": null,
+          "value": 99.43,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a0",
+          "from": 1595003750656,
+          "to": null,
+          "value": 68.618,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a1",
+          "from": 1578198108287,
+          "to": null,
+          "value": 58.064,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a2",
+          "from": 1608536132633,
+          "to": null,
+          "value": 16.77,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a3",
+          "from": 1579971715863,
+          "to": null,
+          "value": 3.006,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a4",
+          "from": 1603402054760,
+          "to": null,
+          "value": 66.277,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a5",
+          "from": 1584060539435,
+          "to": null,
+          "value": 74.641,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a6",
+          "from": 1597178729015,
+          "to": null,
+          "value": 84.17,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a7",
+          "from": 1590669419895,
+          "to": null,
+          "value": 45.999,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a8",
+          "from": 1584685480108,
+          "to": null,
+          "value": 12.001,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000a9",
+          "from": 1600073169909,
+          "to": null,
+          "value": 71.218,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000aa",
+          "from": 1589202950500,
+          "to": null,
+          "value": 28.43,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ab",
+          "from": 1599013630687,
+          "to": null,
+          "value": 33.11,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ac",
+          "from": 1583126000301,
+          "to": null,
+          "value": 82.558,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ad",
+          "from": 1579337293133,
+          "to": null,
+          "value": 59.417,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ae",
+          "from": 1581214220651,
+          "to": null,
+          "value": 81.132,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000af",
+          "from": 1587838743051,
+          "to": null,
+          "value": 67.671,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b0",
+          "from": 1606712453587,
+          "to": null,
+          "value": 87.593,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b1",
+          "from": 1602298337968,
+          "to": null,
+          "value": 81.819,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b2",
+          "from": 1578838456899,
+          "to": null,
+          "value": 89.212,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b3",
+          "from": 1599088215032,
+          "to": null,
+          "value": 65.955,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b4",
+          "from": 1595674208293,
+          "to": null,
+          "value": 56.74,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b5",
+          "from": 1592774243707,
+          "to": null,
+          "value": 85.284,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b6",
+          "from": 1579620436986,
+          "to": null,
+          "value": 65.294,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b7",
+          "from": 1602332761593,
+          "to": null,
+          "value": 27.215,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b8",
+          "from": 1608496512076,
+          "to": null,
+          "value": 96.448,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000b9",
+          "from": 1606141902994,
+          "to": null,
+          "value": 1.72,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ba",
+          "from": 1605615563505,
+          "to": null,
+          "value": 32.359,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000bb",
+          "from": 1604639520438,
+          "to": null,
+          "value": 41.22,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000bc",
+          "from": 1584977984506,
+          "to": null,
+          "value": 7.109,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000bd",
+          "from": 1586326741171,
+          "to": null,
+          "value": 37.497,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000be",
+          "from": 1606015217751,
+          "to": null,
+          "value": 62.348,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000bf",
+          "from": 1583154326941,
+          "to": null,
+          "value": 6.398,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c0",
+          "from": 1587448174250,
+          "to": null,
+          "value": 48.216,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c1",
+          "from": 1592194766715,
+          "to": null,
+          "value": 35.177,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c2",
+          "from": 1597142011558,
+          "to": null,
+          "value": 54.744,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c3",
+          "from": 1609237316435,
+          "to": null,
+          "value": 53.73,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c4",
+          "from": 1605258404725,
+          "to": null,
+          "value": 93.761,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c5",
+          "from": 1603127849441,
+          "to": null,
+          "value": 18.581,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c6",
+          "from": 1578690467017,
+          "to": null,
+          "value": 8.706,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c7",
+          "from": 1600018586045,
+          "to": null,
+          "value": 88.174,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c8",
+          "from": 1588574483706,
+          "to": null,
+          "value": 31.763,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000c9",
+          "from": 1600189555969,
+          "to": null,
+          "value": 32.65,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ca",
+          "from": 1605668289806,
+          "to": null,
+          "value": 31.798,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000cb",
+          "from": 1594448071687,
+          "to": null,
+          "value": 62.647,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000cc",
+          "from": 1581562489613,
+          "to": null,
+          "value": 35.929,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000cd",
+          "from": 1602246099847,
+          "to": null,
+          "value": 64.133,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000ce",
+          "from": 1585438336187,
+          "to": null,
+          "value": 4.204,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000cf",
+          "from": 1589057848803,
+          "to": null,
+          "value": 82.636,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d0",
+          "from": 1585718455336,
+          "to": null,
+          "value": 98.486,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d1",
+          "from": 1585103898723,
+          "to": null,
+          "value": 28.306,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d2",
+          "from": 1599645481609,
+          "to": null,
+          "value": 73.929,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d3",
+          "from": 1584793156712,
+          "to": null,
+          "value": 56.16,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d4",
+          "from": 1603720118017,
+          "to": null,
+          "value": 8.968,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d5",
+          "from": 1599413705668,
+          "to": null,
+          "value": 28.753,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d6",
+          "from": 1599307609695,
+          "to": null,
+          "value": 72.758,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d7",
+          "from": 1606964282513,
+          "to": null,
+          "value": 0.172,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d8",
+          "from": 1608339191120,
+          "to": null,
+          "value": 22.819,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000d9",
+          "from": 1587402803135,
+          "to": null,
+          "value": 51.562,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d9",
+            "from": 1584769931017,
+            "to": null,
+            "value": 43.459,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d8",
+            "from": 1607828001557,
+            "to": null,
+            "value": 22.451,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d7",
+            "from": 1602382346865,
+            "to": null,
+            "value": 98.773,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d6",
+            "from": 1581394514996,
+            "to": null,
+            "value": 63.086,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d5",
+            "from": 1604073483544,
+            "to": null,
+            "value": 89.641,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d4",
+            "from": 1589973311897,
+            "to": null,
+            "value": 72.431,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d3",
+            "from": 1580350038770,
+            "to": null,
+            "value": 73.57,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d2",
+            "from": 1599056819644,
+            "to": null,
+            "value": 57.918,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d1",
+            "from": 1597531526664,
+            "to": null,
+            "value": 69.743,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000d0",
+            "from": 1608457118026,
+            "to": null,
+            "value": 68.346,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000cf",
+            "from": 1601575381317,
+            "to": null,
+            "value": 41.42,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ce",
+            "from": 1582875398915,
+            "to": null,
+            "value": 39.63,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000cd",
+            "from": 1594446599199,
+            "to": null,
+            "value": 41.16,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000cc",
+            "from": 1585569945920,
+            "to": null,
+            "value": 6.603,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000cb",
+            "from": 1587158915340,
+            "to": null,
+            "value": 56.152,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ca",
+            "from": 1578058172899,
+            "to": null,
+            "value": 16.767,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c9",
+            "from": 1578620418062,
+            "to": null,
+            "value": 27.97,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c8",
+            "from": 1592436914907,
+            "to": null,
+            "value": 92.493,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c7",
+            "from": 1597367576348,
+            "to": null,
+            "value": 96.112,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c6",
+            "from": 1601930825091,
+            "to": null,
+            "value": 49.249,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c5",
+            "from": 1582584105398,
+            "to": null,
+            "value": 58.465,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c4",
+            "from": 1584119009210,
+            "to": null,
+            "value": 89.098,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c3",
+            "from": 1579399233290,
+            "to": null,
+            "value": 18.203,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c2",
+            "from": 1591198542081,
+            "to": null,
+            "value": 27.463,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c1",
+            "from": 1580231591712,
+            "to": null,
+            "value": 92.346,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000c0",
+            "from": 1590612584093,
+            "to": null,
+            "value": 28.251,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000bf",
+            "from": 1598470378371,
+            "to": null,
+            "value": 93.144,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000be",
+            "from": 1595545132207,
+            "to": null,
+            "value": 2.284,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000bd",
+            "from": 1593219692481,
+            "to": null,
+            "value": 56.802,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000bc",
+            "from": 1588386264036,
+            "to": null,
+            "value": 55.356,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000bb",
+            "from": 1585087446508,
+            "to": null,
+            "value": 75.901,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ba",
+            "from": 1604496406948,
+            "to": null,
+            "value": 62.984,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b9",
+            "from": 1580383910514,
+            "to": null,
+            "value": 89.523,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b8",
+            "from": 1604803355689,
+            "to": null,
+            "value": 33.06,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b7",
+            "from": 1606834461477,
+            "to": null,
+            "value": 12.574,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b6",
+            "from": 1604664084053,
+            "to": null,
+            "value": 24.548,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b5",
+            "from": 1585361934541,
+            "to": null,
+            "value": 81.338,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b4",
+            "from": 1602132372689,
+            "to": null,
+            "value": 6.94,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b3",
+            "from": 1604662854123,
+            "to": null,
+            "value": 89.376,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b2",
+            "from": 1581623008391,
+            "to": null,
+            "value": 59.888,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b1",
+            "from": 1600809835679,
+            "to": null,
+            "value": 7.22,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000b0",
+            "from": 1588857854914,
+            "to": null,
+            "value": 97.393,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000af",
+            "from": 1592458144928,
+            "to": null,
+            "value": 14.156,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ae",
+            "from": 1589387559666,
+            "to": null,
+            "value": 53.515,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ad",
+            "from": 1578791361284,
+            "to": null,
+            "value": 27.953,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ac",
+            "from": 1581734303067,
+            "to": null,
+            "value": 33.719,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000ab",
+            "from": 1578831273567,
+            "to": null,
+            "value": 29.849,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000aa",
+            "from": 1594940061303,
+            "to": null,
+            "value": 78.281,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a9",
+            "from": 1591749979308,
+            "to": null,
+            "value": 34.921,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a8",
+            "from": 1593766654748,
+            "to": null,
+            "value": 89.254,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a7",
+            "from": 1607910300232,
+            "to": null,
+            "value": 71.86,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a6",
+            "from": 1607017107168,
+            "to": null,
+            "value": 9.022,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a5",
+            "from": 1578430996055,
+            "to": null,
+            "value": 11.973,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a4",
+            "from": 1584143383511,
+            "to": null,
+            "value": 1.386,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a3",
+            "from": 1581434737763,
+            "to": null,
+            "value": 51.484,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a2",
+            "from": 1594421089513,
+            "to": null,
+            "value": 38.906,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a1",
+            "from": 1600821845523,
+            "to": null,
+            "value": 35.352,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000a0",
+            "from": 1603387530833,
+            "to": null,
+            "value": 43.781,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009f",
+            "from": 1583107064775,
+            "to": null,
+            "value": 15.256,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009e",
+            "from": 1585892113428,
+            "to": null,
+            "value": 23.199,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009d",
+            "from": 1602971344741,
+            "to": null,
+            "value": 10.568,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009c",
+            "from": 1602781747941,
+            "to": null,
+            "value": 14.969,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009b",
+            "from": 1593925406158,
+            "to": null,
+            "value": 31.294,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "0000000000000000000000000000009a",
+            "from": 1588529227868,
+            "to": null,
+            "value": 32.193,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000099",
+            "from": 1581923491776,
+            "to": null,
+            "value": 68.19,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000098",
+            "from": 1601307559963,
+            "to": null,
+            "value": 61.109,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000097",
+            "from": 1595234752900,
+            "to": null,
+            "value": 8.85,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000096",
+            "from": 1598339761152,
+            "to": null,
+            "value": 25.76,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000095",
+            "from": 1604681723229,
+            "to": null,
+            "value": 23.666,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "00000000000000000000000000000094",
+            "from": 1579779105278,
+            "to": null,
+            "value": 21.44,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 6,
+      "limit": 91,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    },
+    {
+      "guid": "000000000000000000000000000000da",
+      "type": "Obvod pasu [cm]",
+      "from": 1584998756231,
+      "to": 1603014859443,
+      "unit": null,
+      "graph": true,
+      "nutrientsTarget": [],
+      "nutrientsValues": [],
+      "nutrientsTableData": [],
+      "target": null,
+      "values": [
+        {
+          "guid": "000000000000000000000000000000db",
+          "from": 1585066708147,
+          "to": null,
+          "value": 66.053,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        },
+        {
+          "guid": "000000000000000000000000000000dc",
+          "from": 1586186544857,
+          "to": null,
+          "value": 33.557,
+          "valueString": null,
+          "description": null,
+          "status": null,
+          "systemTime": null,
+          "source": null
+        }
+      ],
+      "tableData": [
+        {
+          "value": {
+            "guid": "000000000000000000000000000000dc",
+            "from": 1591174755524,
+            "to": null,
+            "value": 33.298,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        },
+        {
+          "value": {
+            "guid": "000000000000000000000000000000db",
+            "from": 1589103320221,
+            "to": null,
+            "value": 16.709,
+            "valueString": null,
+            "description": null,
+            "status": null,
+            "systemTime": null,
+            "source": null
+          },
+          "target": null
+        }
+      ],
+      "page": 91,
+      "limit": 53,
+      "targetPaged": null,
+      "valuesPaged": null,
+      "tableDataPaged": null,
+      "min": null,
+      "max": null
+    }
+  ]
+}
