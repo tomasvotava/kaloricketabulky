@@ -1,5 +1,4 @@
 from kaloricketabulky import __version__
-from kaloricketabulky.__main__ import main
 
 
 def test_version_is_exposed() -> None:
@@ -7,8 +6,14 @@ def test_version_is_exposed() -> None:
     assert __version__
 
 
-def test_main_returns_success() -> None:
-    assert main() == 0
+def test_cli_parses_streak() -> None:
+    from datetime import date
+
+    from kaloricketabulky.__main__ import parse_args
+
+    args = parse_args(["streak", "--date", "2026-06-02"])
+    assert args.command == "streak"
+    assert args.date == date(2026, 6, 2)
 
 
 async def test_async_runtime_is_available() -> None:
