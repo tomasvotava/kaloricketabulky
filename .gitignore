@@ -2,7 +2,7 @@
 /sample-responses/
 
 # Superpowers working directory (specs/plans, not part of the repo).
-/superpowers/
+/docs/superpowers/
 
 # Local environment
 .env
