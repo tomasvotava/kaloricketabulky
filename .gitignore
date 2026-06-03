@@ -24,6 +24,9 @@ dist/
 .venv/
 venv/
 
+# Docs build output
+/site/
+
 # Test / coverage artifacts
 .pytest_cache/
 .ruff_cache/

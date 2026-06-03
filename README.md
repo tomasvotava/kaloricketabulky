@@ -1,5 +1,13 @@
 # kaloricketabulky-sdk
 
+[![lint](https://github.com/tomasvotava/kaloricketabulky/actions/workflows/lint.yml/badge.svg)](https://github.com/tomasvotava/kaloricketabulky/actions/workflows/lint.yml)
+[![pytest](https://github.com/tomasvotava/kaloricketabulky/actions/workflows/pytest.yml/badge.svg)](https://github.com/tomasvotava/kaloricketabulky/actions/workflows/pytest.yml)
+[![codecov](https://codecov.io/gh/tomasvotava/kaloricketabulky/branch/master/graph/badge.svg)](https://codecov.io/gh/tomasvotava/kaloricketabulky)
+[![PyPI](https://img.shields.io/pypi/v/kaloricketabulky-sdk)](https://pypi.org/project/kaloricketabulky-sdk/)
+![Python](https://img.shields.io/pypi/pyversions/kaloricketabulky-sdk)
+![License](https://img.shields.io/github/license/tomasvotava/kaloricketabulky)
+[![Docs](https://github.com/tomasvotava/kaloricketabulky/actions/workflows/docs.yml/badge.svg)](https://tomasvotava.github.io/kaloricketabulky/)
+
 Typesafe, async, read-only access to the [kaloricketabulky.cz](https://www.kaloricketabulky.cz)
 internal API. The SDK layer (`kaloricketabulky.sdk`) is self-contained and usable on its own;
 the surrounding package adds configuration and a command-line entry point.
