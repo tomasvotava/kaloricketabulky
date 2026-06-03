@@ -1,0 +1,72 @@
+name: create release branch
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  check-commit:
+    runs-on: ubuntu-latest
+    outputs:
+      should_continue: ${{ steps.check.outputs.should_continue }}
+    steps:
+      - uses: actions/checkout@v6
+        name: Checkout
+        with:
+          fetch-depth: 0
+      - name: Skip the commitizen bump commit
+        id: check
+        run: |
+          MSG=$(git log -1 --pretty=%B)
+          if [[ "$MSG" == bump:* || "$MSG" == *"from release/"* ]]; then
+            echo "should_continue=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_continue=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  bump:
+    needs: check-commit
+    if: needs.check-commit.outputs.should_continue == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v6
+        name: Checkout
+        with:
+          fetch-depth: 0
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - uses: astral-sh/setup-uv@v7
+        name: Install uv
+        with:
+          enable-cache: true
+          python-version: "3.13"
+      - name: Install dependencies
+        run: uv sync --locked
+      - name: Determine the next version
+        id: next
+        run: |
+          VERSION=$(uv run cz bump --get-next 2>/dev/null) || VERSION="none"
+          if [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Bump version and changelog
+        if: steps.next.outputs.found == 'true'
+        run: uv run cz bump --yes
+      - name: Open the release pull request
+        if: steps.next.outputs.found == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: "release/${{ steps.next.outputs.version }}"
+          title: "Release ${{ steps.next.outputs.version }}"
+          body: "Bumps the version to ${{ steps.next.outputs.version }} and updates the changelog. Merging this publishes to PyPI."
+          base: master
+          reviewers: tomasvotava
