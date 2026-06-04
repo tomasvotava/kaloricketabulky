@@ -47,7 +47,7 @@ jobs:
       - name: Publish to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
       - name: Create the GitHub release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: "${{ steps.version.outputs.version }}"
           name: "Release ${{ steps.version.outputs.version }}"

@@ -63,7 +63,7 @@ jobs:
         run: uv run cz bump --yes
       - name: Open the release pull request
         if: steps.next.outputs.found == 'true'
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: "release/${{ steps.next.outputs.version }}"
           title: "Release ${{ steps.next.outputs.version }}"
