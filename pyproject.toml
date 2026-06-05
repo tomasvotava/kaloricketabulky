@@ -115,3 +115,7 @@ version_provider = "pep621"
 update_changelog_on_bump = true
 major_version_zero = true
 changelog_incremental = true
+# Refresh the lockfile's own pinned project version during the bump; cz commits with `git
+# commit -a`, so this modified tracked file is folded into the bump commit and CI's
+# `uv sync --locked` stays green.
+pre_bump_hooks = ["uv lock"]
