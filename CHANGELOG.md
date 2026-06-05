@@ -1,3 +1,9 @@
+## 0.1.1 (2026-06-05)
+
+### Fix
+
+- refresh uv.lock during cz bump so release CI stays locked
+
 ## 0.1.0 (2026-06-03)
 
 ### Feat
