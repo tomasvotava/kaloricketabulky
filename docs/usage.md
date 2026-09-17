@@ -23,13 +23,13 @@ All methods take `datetime.date` and return curated Pydantic models.
 from datetime import date
 from kaloricketabulky.sdk import SnapshotType
 
-diary   = await client.get_diary(date(2026, 6, 2))
-streak  = await client.get_streak(date(2026, 6, 2))            # consecutive tracked days
-tips    = await client.get_tips(date(2026, 5, 26), date(2026, 6, 1))
-day     = await client.get_diary_summary(date(2026, 6, 2))
-stats   = await client.get_statistics_summary(date(2026, 6, 2))
-weight  = await client.get_snapshot(SnapshotType.WEIGHT, date(2025, 6, 2), date(2026, 6, 2))
-custom  = await client.get_optional_snapshots(date(2025, 6, 2), date(2026, 6, 2))
+diary = await client.get_diary(date(2026, 6, 2))
+streak = await client.get_streak(date(2026, 6, 2))  # consecutive tracked days
+tips = await client.get_tips(date(2026, 5, 26), date(2026, 6, 1))
+day = await client.get_diary_summary(date(2026, 6, 2))
+stats = await client.get_statistics_summary(date(2026, 6, 2))
+weight = await client.get_snapshot(SnapshotType.WEIGHT, date(2025, 6, 2), date(2026, 6, 2))
+custom = await client.get_optional_snapshots(date(2025, 6, 2), date(2026, 6, 2))
 ```
 
 `get_snapshot` accepts the single-series metrics (`ENERGY`, `NUTRIENTS`, `DRINK`, `WEIGHT`); the
