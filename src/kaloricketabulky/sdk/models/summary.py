@@ -49,7 +49,7 @@ class DiaryBalance(ApiModel):
     digestion: bool | None = None
     consider_activity: bool | None = Field(default=None, alias="considerActivity")
     own_target: bool | None = Field(default=None, alias="ownTarget")
-    own_target_value: float | None = Field(default=None, alias="ownTargetValue")
+    own_target_value: CzechFloat = Field(default=None, alias="ownTargetValue")
 
 
 class DiarySummary(ApiModel):

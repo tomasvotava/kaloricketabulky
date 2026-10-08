@@ -1,6 +1,7 @@
 from datetime import date
 
 from kaloricketabulky.sdk.models.summary import (
+    DiaryBalance,
     DiarySummary,
     StatisticsSummary,
     SummaryItem,
@@ -100,3 +101,26 @@ def test_statistics_summary_parses_localized_and_weekbars() -> None:
     assert summary.week_energy[0].value == 129.58
     assert summary.weight == 85.25
     assert summary.month_weight[0].value == 85.25
+
+
+def test_diary_balance_parses_localized_own_target_value() -> None:
+    """An account with a custom energy target gets `ownTargetValue` as a localized
+    string, the same way the other balance figures arrive."""
+    balance = DiaryBalance.model_validate(
+        {
+            "target": "4\u00a0000",
+            "basal": "1 810",
+            "ownTarget": True,
+            "ownTargetValue": "4\u00a0000",
+        }
+    )
+    assert balance.own_target is True
+    assert balance.own_target_value == 4000.0
+    assert balance.target == 4000.0
+    assert balance.basal == 1810.0
+
+
+def test_diary_balance_own_target_value_accepts_number_and_null() -> None:
+    assert DiaryBalance.model_validate({"ownTargetValue": 4000}).own_target_value == 4000.0
+    assert DiaryBalance.model_validate({"ownTargetValue": None}).own_target_value is None
+    assert DiaryBalance.model_validate({}).own_target_value is None
